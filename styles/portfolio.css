@@ -103,3 +103,10 @@ main {
 .about-info {
   text-align: center;
 }
+.about-info h4 {
+  color: #757575;
+  font-size: 20px;
+}
+#what-i-do-description {
+  padding: 30px 150px;
+}
